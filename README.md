@@ -1,4 +1,4 @@
-# # Small Project: Healthcare Scheduling Optimization
+# Small Project: Healthcare Scheduling Optimization
 
 This repository contains a university project for a healthcare scheduling optimization problem, for the course of "Foundations of Operational Research", from Prof. Malucelli. The objective is to assign patients to rooms and schedule nurses while minimizing total admission delays. This problem is inspired by the Integrated Healthcare Timetabling Competition 2024.
 
