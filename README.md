@@ -11,7 +11,7 @@ This repository contains a university project for a healthcare scheduling optimi
 
 1. Launch Google Colab or a local Jupyter environment.
 2. Open `AcquadroDrugman.ipynb`.
-3. Ensure that you have the necessary packages installed (Gurobi, PuLP, or another MIP solver, plus `pandas`, `requests`, etc.).
+3. Ensure that you have the necessary packages installed (`MIP solver`, plus `pandas`, `requests`, etc.).
 4. Run all cells in the notebook to:
    - Load data from `test20.json` via the provided raw GitHub URL.
    - Formulate and solve the optimization model.
@@ -20,7 +20,7 @@ This repository contains a university project for a healthcare scheduling optimi
 ## Dependencies
 
 - Python 3.8+
-- A MIP solver such as Gurobi or CBC
+- The MIP solver MIP
 - `pandas` for data handling
 - `requests` for loading data from a URL
 - `json` for parsing the dataset
